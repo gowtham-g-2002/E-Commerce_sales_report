@@ -46,17 +46,7 @@ This dashboard allows users to:
 - **ETL & Data Modeling**
 - **Interactive Slicers (Quarter, Month)**
 - Clean and minimal **UI/UX Dashboard Design**
-
----
-
-## 🖼️ Dashboard Screenshots
-
-### Page 1 – KPI Summary & Category Analysis
-![Ecommerce Dashboard Page 1](./Ecommerce_Project_page_1.png)
-
-### Page 2 – Monthly Trends, AOV & Profit Insights
-![Ecommerce Dashboard Page 2](./Ecommerce_Project_page_2.png)
-
+  
 ---
 
 🎯 Why This Project?
